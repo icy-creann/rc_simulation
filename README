@@ -7,3 +7,8 @@ ros1
 
 机器人模型源于机器人工匠阿杰的wpr_simulation项目
 需先git获取wpr_simulation项目，也可以直接用自己的机器人模型替换wpr_simulation项目中的机器人模型
+
+
+使用gazebo仿真环境显示rc地图
+roslaunch rc_simulation 26rc_world.launch
+roslaunch rc_simulation 24rc_world.launch
