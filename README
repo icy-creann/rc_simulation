@@ -1,0 +1,9 @@
+author:icy
+
+本工具包配置环境为
+Ubuntu 20.04
+ros1
+用于提供Robocon2024年和2026年的gazebo仿真地图
+
+机器人模型源于机器人工匠阿杰的wpr_simulation项目
+需先git获取wpr_simulation项目，也可以直接用自己的机器人模型替换wpr_simulation项目中的机器人模型
